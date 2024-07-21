@@ -1,0 +1,16 @@
+main{
+    padding: 4rem;
+}
+
+.custom-card {
+    width: 25%; 
+    height: 10%;
+}
+
+.custom-img {
+    object-fit: cover;
+    width: 100%;
+    height: auto; 
+}
+
+
